@@ -18,7 +18,7 @@ After:
 
 30 seconds → background turns silver
 
-60 seconds → background turns gold 🏆
+60 seconds → background turns gold 
 
 When you stop hovering:
 
